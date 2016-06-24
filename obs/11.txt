@@ -22,7 +22,10 @@ Israeelootu minna baalate waalchira mundee ganneenna no; kunnira Maganu agure sa
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg}}
 
-Gibitsootu kayinni Magano diammantino; hajajosino diwonshitino. Kunnira Maganu minnansa agure disaino. Maganu Gibitsootunniha umiha baala shiino.
+Gibitsootu kayinni Magano diammantino; hajajosino diwonshitino. Kunnira 
+Maganu minnansa agure disaino. Maganu Gibitsootunniha umiha baala shiino. 
+. 
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg}}
 
@@ -30,6 +33,7 @@ Usuru mine noohunni kayise Ferioooni mine noohu geeshsha mittu mittunku Gibitsen
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg}}
 
-Hakko hashshanni Feriooni Musenna Aarooni woshshe, <> yii.
+Hakko hashshanni Feriooni Musenna Aarooni woshshe, <<Israeeloota haadhine 
+xaanni hadhe>> yii. 
 
-//Qullaawu Maxaafi Dhagge:- Fulo 11:1-12:32//
+Qullaawu Maxaafi Dhagge:- Fulo 11:1-12:32
