@@ -34,7 +34,9 @@ Leyikki barra Maganu <> yii. Maganu yiino gede ikki. Mite mite loosi’nanni saa
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg}}
 
-Maganu, <> yii.
+Maganu, <<Manna daninkenninna suudinkenni kalanqo; baatto baalanna
+saada baala gashshona>> yii. 
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg}}
 
