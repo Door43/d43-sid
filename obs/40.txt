@@ -1,39 +1,81 @@
 ====== 40. Yesuusi Sutami ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?direct&}}
 
-Gaaddo Yesuusa qacifattuhu gedensaanni, suttara haadhe hadhusi. Suntannisi dawe duhanno gedeno assitusi.
+Gaaddo Yesuusa qacifattuhu gedensaanni, suttara haadhe hadhusi. Suntannisi
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg}}
+dawe duhanno gedeno assitusi.
 
-Gaaddo Yesuusa, <> yinanniwa massite angasinna lekkasi masiqalu aana ladditu. Yesuusi kayinni, <> yii. Philaaxoosi masiqalu aana umaalloonni, <> yine borreessinanni gede hajaji.
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg}}
+Gaaddo Yesuusa, <<Umu qooncho>> yinanniwa massite angasinna lekkasi
 
-Gaaddo Yesuusi uddanora hixa tuqqitu. Hatto assitu yannara, <> yaanno himana wonshitu.
+masiqalu aana ladditu. Yesuusi kayinni, <<Anna, diaffe assitanni noona
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg}}
+agurinsa>> yii. Philaaxoosi masiqalu aana umaalloonni, <<Ayihudtete moote>>
 
-Yesuusi lamu addifulooti mereero sutamino. Mittichu Yesuusa qacifatita, wolu kayinni, <> yii. Hatto yee kae Yesuusa, <> yii. Yesuusi, <> yee dawarisi.
+yine borreessinanni gede hajaji.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?direct&}}
 
-Ayihudete sooreeyyenna mannu mereero noori wolootu Yesuusa qacifattanni, <> yitusi.
+Gaaddo Yesuusi uddanora hixa tuqqitu. Hatto assitu yannara, <<Uddanna’ya
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg}}
+beeqqitu; uddano’yara hixa tuqqitu>> yaanno himana wonshitu.
 
-Hatte yannara barru taaloote ikke hee’reennanni gobba gudisante tunsitu. Barru taalootinni kayise honse saate geeshsha tunse keeshshi.
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg}}
+Yesuusi lamu addifulooti mereero sutamino. Mittichu Yesuusa qacifatita, wolu
 
-Hakkunni gedensaanni Yesuusi qoonqosi naggi asse, <> yii. Hakkunni gedensaanni umo heeshshi yeenna foolu fulisi. Reyi yannara baatto huxidhu; Qullaawa Mine nooti manna Maganuwiinni baddanno dukko alinni eeli geeshsha dadhante lamewa fultu
+kayinni, <<Ati Magano diwaajjatto? Ninke assinoommo beebba amaddinonke;
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg}}
+kuni manchi kayinni mitte saono diloosino>> yii. Hatto yee kae Yesuusa,
 
-Yesuusi reyo widoonni qole Maganu mannaho doogo faninonsa. Yesuusa Agare noo gaaddichi ikkino coye lae, <> yii.
+<<Eeggatena gashshootikkira habbootie>> yii. Yesuusi, <<Techonni ane ledo Gannate eatto>> yee dawarisi.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?direct&}}
 
-Hatte Yesuusi Buuramino Moote ikkinota ammantinori lamu Ayihudete sooreeyye Yooseefinna Niqoodimoosi, Yesuusi reeshsha aannonsa gede Philaaxoosi huuccidhu. Reeshshasi uddanotenni kafante kincho kurkurre seekkinoonni waamma giddo wortu. Hakkunni gedensaanni faro waammate albaanni noo kinchinni cuffu.
+Ayihudete sooreeyyenna mannu mereero noori wolootu Yesuusa qacifattanni,
 
-//Qullaawu Maxaafi Dhagge:- Maatewoosi 27:27-61; Maarqoosi 15:16-48; Luqaasi 23:26-56; Yohaannisi 19:17-42//
+<<Ati Maganu Beettootiro hanni masiqalu aaninni dirrite umokki gatisi! Hakkunni
+
+gedensaanni ammanneemmohena>> yitusi.
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?direct&}}
+
+Hatte yannara barru taaloote ikke hee’reennanni gobba gudisante tunsitu. Barru
+
+taalootinni kayise honse saate geeshsha tunse keeshshi.
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?direct&}}
+
+Hakkunni gedensaanni Yesuusi qoonqosi naggi asse, <<Xaate ikkino! Anna,
+
+lubbo’ya angakki wodhoommo>> yii. Hakkunni gedensaanni umo heeshshi
+
+yeenna foolu fulisi. Reyi yannara baatto huxidhu; Qullaawa Mine nooti manna
+
+Maganuwiinni baddanno dukko alinni eeli geeshsha dadhante lamewa fultu
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?direct&}}
+
+Yesuusi reyo widoonni qole Maganu mannaho doogo faninonsa. Yesuusa
+
+Agare noo gaaddichi ikkino coye lae, <<Addaho kuni manchi sao diloosino. Isi
+
+Maganu Beettooti>> yii.
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?direct&}}
+
+Hatte Yesuusi Buuramino Moote ikkinota ammantinori lamu Ayihudete sooreeyye
+
+Yooseefinna Niqoodimoosi, Yesuusi reeshsha aannonsa gede Philaaxoosi
+
+huuccidhu. Reeshshasi uddanotenni kafante kincho kurkurre seekkinoonni
+
+waamma giddo wortu. Hakkunni gedensaanni faro waammate albaanni noo
+
+kinchinni cuffu.
+
+**//Qullaawu Maxaafi Dhagge:- Maatewoosi 27:27-61; Maarqoosi 15:16-48; Luqaasi // **
+
+**//23:26-56; Yohaannisi 19:17-42.// **
