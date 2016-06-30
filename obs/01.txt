@@ -6,7 +6,7 @@ Kunninni aanchine Maganu baalunka coye hanafinoha ikkinota buunxeemmo. Kunnira M
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg}}
 
-Hakkunni gedensaanni <> yeenna xawaabba ikki. Maganu Xawaabbu dancha ikkinota lae <> yee woshshi. Maganu barra tunsichuwiinni bade <> yee woshshi. Maganu umi barra xawaabba kalaqino.
+Hakkunni gedensaanni <<Xawaabba ikko>> yeenna xawaabba ikki. Maganu Xawaabbu dancha ikkinota lae <<Barra>> yee woshshi. Maganu barra tunsichuwiinni bade <<Hashsha>> yee woshshi. Maganu umi barra xawaabba kalaqino.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg}}
 
@@ -14,7 +14,8 @@ Layinki barra Maganu baattote iimaanni nooha fano darga kalaqino. Kunnira Maganu
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg}}
 
-Sayikki barra Maganu wayi moola uullawiinni baxxanno gede assi. Maganu moola uulla <> waa qole <> yee woshshi. Maganuno kalaqino coyi dancha ikkinota lai.
+Sayikki barra Maganu wayi moola uullawiinni baxxanno gede assi. Maganu moola uulla <<Baatto>> waa qole <<Baara>> yee woshshi. Maganuno kalaqino coyi dancha ikkinota lai.
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg}}
 
@@ -30,7 +31,7 @@ Ontikki barra Maganu wayi giddo hee’ranno kalaqamanna cea baala kalaqi. Maganu
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg}}
 
-Leyikki barra Maganu <> yii. Maganu yiino gede ikki. Mite mite loosi’nanni saadaati, godowunni ha’rannoreeti, mitu qole dubbu moyichooti. Maganu hakkuno dancha ikkinota lai.
+Leyikki barra Maganu <<Baattote aana baalunku dani kalaqami hee’rona>> yii. Maganu yiino gede ikki. Mite mite loosi’nanni saadaati, godowunni ha’rannoreeti, mitu qole dubbu moyichooti. Maganu hakkuno dancha ikkinota lai. 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg}}
 
@@ -56,11 +57,11 @@ Maganu Addaami aana lowo goxicho tugi. Goxe hee’reenna midashshisinni mitto mi
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg}}
 
-Addaami ise lae kae, <> yii. Kunnira mannu annasinna amasi aguranno. Galtesi ledo mitto ikkanno.
+Addaami ise lae kae, <<Tini ane labbanno; labbaahuwiinni fultinona meyate yinosena>> yii. Kunnira mannu annasinna amasi aguranno. Galtesi ledo mitto ikkanno.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg}}
 
-Maganu labbaahanna meyata danisinni kalaqino. Qoleno maassi’rinonsa; <> yiinonsa. Maganu loosino coyi lowo geeshsha dancha ikkinota lai. Baalunkurinni hagiidhi. Kuni coyi baalu leyu barrinni ikkino.
+Maganu labbaahanna meyata danisinni kalaqino. Qoleno maassi’rinonsa; <<Ille ilamme oosote oosono heedho’ne, baattono wo’me>> yiinonsa. Maganu loosino coyi lowo geeshsha dancha ikkinota lai. Baalunkurinni hagiidhi. Kuni coyi baalu leyu barrinni ikkino. 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg}}
 
