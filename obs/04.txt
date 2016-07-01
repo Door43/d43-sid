@@ -10,7 +10,7 @@ Insano lowo geeshsha naaxxaleeyyetenna Maganu coyi’rino coye diqorophitinoreet
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg}}
 
-Kunnira Maganu afoonsa batinyu addi addi afiira soorre manna kalqe baalate billaallisino. Loosa hanaffino katami su’ma Baabilooni yinanni. Hatto yaa <> woy <> yaate.
+Kunnira Maganu afoonsa batinyu addi addi afiira soorre manna kalqe baalate  billaallisino. Loosa hanaffino katami su’ma Baabilooni yinanni. Hatto yaa <<Burduuqamate>> woy <<Gara hawate>> yaate.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-04.jpg}}
 
@@ -21,8 +21,7 @@ Xibbuu diri gedensaanni Maganu Abiraami yinanni manchira coyi’ri. Maganu, <<Go
 Abiraamino Maganoho hajajami; galtesi Soora, soqqamaanosi baalanna jajjasi baala adhe Maganu leellishannosita Kana”aani gobba ha’ri.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg}}
-
-Abiraami Kana”aani iilli yannara Maganu, <> yiinosi. Abiraamino hatte gobbara hee’ri.
+Abiraami Kana”aani iilli yannara Maganu, <<Qooxeessakki baala lai; la”atto gobba baala ateranna sirchikkira iqqa asse eemmo>> yiinosi. Abiraamino hatte gobbara hee’ri. 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg}}
 
@@ -37,4 +36,7 @@ sheemaateeti. Maganu Abiraami, <<Guluchikki giddonni ila eemmohe>> yiinosi. <<Si
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg}}
 
-//Maganu Abiraami ledo gondooro ei. Gondooru lame ragaanni noori kalaqidhannosheemaateeti. Maganu Abiraami, <> yiinosi. <> yiino. Abiraami kayinni hatte yannara ila diafi’rino. //Qullaawu Maxaafi Dhagge:- Kalaqama 11-15////
+Maganu Abiraami ledo gondooro ei. Gondooru lame ragaanni noori kalaqidhanno sheemaateeti. Maganu Abiraami, <<Guluchikki giddonni ila eemmohe>> yiinosi. <<Sirchikkirano Kana”aani baatto eemmo>> yiino. Abiraami kayinni hatte yannara ila diafi’rino.
+
+
+ //Qullaawu Maxaafi Dhagge:- Kalaqama 11-15////
